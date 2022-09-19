@@ -1,0 +1,11 @@
+# pip install -r requirements.txt
+
+#Libraries
+
+paho-mqtt
+cryptography
+fernet
+
+# Testing
+flake8
+pylint
